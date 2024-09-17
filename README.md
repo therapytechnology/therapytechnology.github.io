@@ -1,4 +1,3 @@
-# therapytechnology.github.io
 Therapy Technology - Homepage
 Welcome to Therapy Technology, your premier source for cutting-edge insights and information on the latest innovations in therapeutic devices. Our mission is to provide in-depth, science-backed content that empowers you to make informed decisions about your health, wellness, and recovery solutions. From advanced light therapy systems to non-invasive treatments, we cover it all.
 
